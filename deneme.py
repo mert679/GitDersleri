@@ -5,3 +5,4 @@
 # git log
 #.git gizli bir şekilde eklendi.
 # git status değişitirlilen veya eklene dosyaları takibi için.
+print("hello")
