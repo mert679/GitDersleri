@@ -5,8 +5,5 @@
 # git log
 #.git gizli bir şekilde eklendi.
 # git status değişitirlilen veya eklene dosyaları takibi için.
-<<<<<<< HEAD
 print("hello")
-=======
 var = "Hello"
->>>>>>> yeni_ozellik
